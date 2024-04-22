@@ -4,3 +4,6 @@
 [submodule "Machine-Learning-Books-With-Python"]
 	path = Machine-Learning-Books-With-Python
 	url = https://github.com/tdpetrou/Machine-Learning-Books-With-Python.git
+[submodule "ISLP_labs"]
+	path = ISLP_labs
+	url = https://github.com/SarahG1010/ISLP_labs.git
